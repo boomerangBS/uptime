@@ -1,7 +1,7 @@
-url: https://cloud-1.boomerangbs.fr:8443
-status: down
-code: 401
-responseTime: 477
-lastUpdated: 2023-12-07T18:36:10.548Z
+url: https://cloud.boomerangbs.fr
+status: up
+code: 200
+responseTime: 699
+lastUpdated: 2023-12-07T18:46:24.019Z
 startTime: 2023-12-07T18:32:57.284Z
 generator: Upptime <https://github.com/upptime/upptime>
