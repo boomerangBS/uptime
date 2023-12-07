@@ -6,7 +6,7 @@ sites:
   - name: BoomerangBS Website
     url: https://www.boomerangbs.fr
   - name: Re:Cloud
-    url: https://cloud-1.boomerangbs.fr:8443
+    url: https://cloud.boomerangbs.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
