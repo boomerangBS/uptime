@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.boomerangbs.fr.ico",
     "slug": "re-cloud",
     "status": "up",
-    "uptime": "7.51%",
-    "uptimeDay": "7.51%",
-    "uptimeWeek": "7.51%",
-    "uptimeMonth": "7.51%",
-    "uptimeYear": "7.51%",
-    "time": 588,
-    "timeDay": 588,
-    "timeWeek": 588,
-    "timeMonth": 588,
-    "timeYear": 588,
-    "dailyMinutesDown": {
-      "2023-12-07": 13
-    }
+    "uptime": "100%",
+    "uptimeDay": "100%",
+    "uptimeWeek": "100%",
+    "uptimeMonth": "100%",
+    "uptimeYear": "100%",
+    "time": 1,
+    "timeDay": 1,
+    "timeWeek": 1,
+    "timeMonth": 1,
+    "timeYear": 1,
+    "dailyMinutesDown": {}
   }
 ]
