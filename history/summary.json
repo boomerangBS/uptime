@@ -4,19 +4,19 @@
     "url": "https://www.boomerangbs.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.boomerangbs.fr.ico",
     "slug": "boomerang-bs-website",
-    "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "92.60%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
-    "time": 410,
-    "timeDay": 622,
-    "timeWeek": 496,
-    "timeMonth": 410,
-    "timeYear": 410,
+    "status": "up",
+    "uptime": "99.43%",
+    "uptimeDay": "91.41%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
+    "time": 400,
+    "timeDay": 516,
+    "timeWeek": 469,
+    "timeMonth": 400,
+    "timeYear": 400,
     "dailyMinutesDown": {
-      "2023-12-22": 106
+      "2023-12-22": 123
     }
   },
   {
