@@ -1,7 +1,7 @@
 url: https://cloud.boomerangbs.fr
-status: up
-code: 200
-responseTime: 351
-lastUpdated: 2024-01-07T03:34:05.468Z
+status: down
+code: 503
+responseTime: 76
+lastUpdated: 2024-01-07T04:22:39.598Z
 startTime: 2023-12-07T18:32:57.284Z
 generator: Upptime <https://github.com/upptime/upptime>
